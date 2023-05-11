@@ -1,0 +1,4 @@
+For EEG microstates analysis we used the software CARTOOL
+Please refer to the following publication:
+https://www.nature.com/articles/s41467-020-16914-1
+, and the supplementary materials of the paper

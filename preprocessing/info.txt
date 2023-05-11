@@ -1,0 +1,5 @@
+This is the base code for preprocessing. 
+For DFA exponents, data were not epoched. 
+For electrode connectivity analysis ICA was not used
+Microstates analysis involves an extra step where data are filtered from 1 - 40 Hz after downsampling to 128 Hz
+Please contact me or refer to the supplementary materials for further details 

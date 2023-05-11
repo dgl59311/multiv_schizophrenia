@@ -1,0 +1,8 @@
+We used the software eLORETA. 
+All the analysis is the same as presented in another publication: https://github.com/dgl59311/stats_eegfeatures/tree/master/eeg_analysis/source_connectivity
+There are two differences: 
+1) We calculated another connectivity measure: Instantaneous phase synchronization
+1) The gamma band in the study presented in the repository using the LEMON data is defined from 30 - 45 Hz, whereas for the schizophrenia data, 
+the gamma band frequencies ranged from 30 to 70 Hz.
+
+Please also refer to the supplementary materials of the paper for more details

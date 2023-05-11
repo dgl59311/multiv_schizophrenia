@@ -1,0 +1,3 @@
+The function sampen() can be found at: 
+www.mathworks.com/matlabcentral/fileexchange/69381-sample-entropy
+
