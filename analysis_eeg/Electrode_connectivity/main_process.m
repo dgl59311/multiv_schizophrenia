@@ -96,8 +96,8 @@ for i = 1:5
     btw = array2table(squeeze(el_betw_(i, :, :)), 'VariableNames', data_obj.data(1).(f_names{1}).label);
     writetable(btw, [bands{i} '_' alg '_betw_' group '.csv'])
     nodestr = array2table(squeeze(el_nodestr_(i, :, :)), 'VariableNames', data_obj.data(1).(f_names{1}).label);
-    writetable(nodestr, [bands{i} '_' alg '_cc_' group '.csv'])
+    writetable(nodestr, [bands{i} '_' alg '_str_' group '.csv'])
     cc = array2table(squeeze(el_cc_(i, :, :)), 'VariableNames', data_obj.data(1).(f_names{1}).label);
-    writetable(cc, [bands{i} '_' alg '_str_' group '.csv'])
+    writetable(cc, [bands{i} '_' alg '_cc_' group '.csv'])
     
 end
